@@ -62,8 +62,6 @@ class IslandContent {
             </div>
         </div>';
 }
-
-
 }
 
 ?>
